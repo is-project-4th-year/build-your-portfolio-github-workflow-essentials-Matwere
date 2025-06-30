@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #004aad;
+  background-color: blueviolet;
   color: white;
   padding: 50px 20px;
 }
@@ -29,7 +29,7 @@ nav ul li a {
 
 #about {
   padding: 60px 20px;
-  background-color: #f4f4f4;
+  background-color: aqua;
   text-align: center;
 }
 
@@ -42,9 +42,9 @@ nav ul li a {
 }
 
 .profile-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
   object-fit: cover;
   margin-bottom: 20px;
 }
@@ -65,7 +65,7 @@ nav ul li a {
   margin-bottom: 5px;
 }
 #projects {
-  background-color: #fff;
+  background-color: goldenrod;
   padding: 60px 20px;
   text-align: center;
 }
@@ -79,7 +79,7 @@ nav ul li a {
 }
 
 .project-card {
-  background: #f0f0f0;
+  background:aqua;
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -97,7 +97,7 @@ nav ul li a {
   text-decoration: none;
 }
 #contact {
-  background-color: #e6f2ff;
+  background-color: aqua;
   padding: 60px 20px;
   text-align: center;
 }
@@ -128,7 +128,7 @@ nav ul li a {
 
 .contact-form button {
   padding: 12px;
-  background-color: #004aad;
+  background-color: red;
   color: white;
   border: none;
   border-radius: 8px;
@@ -145,7 +145,7 @@ nav ul li a {
   text-decoration: none;
 }
 footer {
-  background-color: #222;
+  background-color: orchid;
   color: #fff;
   padding: 20px;
   text-align: center;
