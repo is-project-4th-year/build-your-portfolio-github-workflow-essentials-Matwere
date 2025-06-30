@@ -42,9 +42,9 @@ nav ul li a {
 }
 
 .profile-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
   object-fit: cover;
   margin-bottom: 20px;
 }
@@ -65,7 +65,7 @@ nav ul li a {
   margin-bottom: 5px;
 }
 #projects {
-  background-color: aqua;
+  background-color: goldenrod;
   padding: 60px 20px;
   text-align: center;
 }
